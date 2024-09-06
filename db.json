@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "바닐라라떼",
+      "price": 3000,
+      "id": 2
+    },
+    {
+      "name": "헤이즐넛라떼",
+      "price": 3000,
+      "id": 3
+    },
+    {
+      "name": "라떼",
+      "price": 2500,
+      "id": 4
+    },
+    {
+      "name": "모카",
+      "price": 3500,
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "아메리카노",
+      "price": 1500,
+      "id": 1,
+      "quantity": 6
+    },
+    {
+      "name": "라떼",
+      "price": 2500,
+      "id": 4,
+      "quantity": 4
+    },
+    {
+      "name": "바닐라라떼",
+      "price": 3000,
+      "id": 2,
+      "quantity": 7
+    }
+  ]
+}
